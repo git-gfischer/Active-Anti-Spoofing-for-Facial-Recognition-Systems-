@@ -1,0 +1,11 @@
+numpy==1.23.1
+#numpy
+#opencv-python==4.5.1.48
+opencv-python==4.5.5.64
+filterpy==1.4.5
+scikit-image==0.17.2
+lap==0.4.0
+mediapipe
+mxnet
+mxnet-mkl==1.6.0
+cython
