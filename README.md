@@ -14,8 +14,8 @@ ORB is basically a fusion of FAST keypoint detector and BRIEF descriptor with ma
 ```
 
 ## Run
-To run demo using ORB with webcam:          ``` python3 main.py  ```  <br>
-To run demo using ORB with any camera:      ``` python3 main.py --source [SOURCE] ``` <br>
+To run demo with webcam:          ``` python3 main.py  ```  <br>
+To run demo with any camera:      ``` python3 main.py --source [SOURCE] ``` <br>
 
 
 ## References
